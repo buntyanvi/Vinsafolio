@@ -28,7 +28,7 @@ export const clientReviews = [
     position: 'MERN Stack Developer',
     img: 'assets/krishna.png',
     review:
-    'Vignesh expertise in web development is outstanding. He developed a highly efficient and scalable job portal application using the MERN stack, which led to a noticeable improvement in performance and user engagement. The solution he provided was robust, tailored to our requirements, and has significantly enhanced our platform efficiency.  '
+    'Vignesh expertise in web development is exceptional. He created a scalable job portal application using the MERN stack, resulting in significant improvements in performance and user engagement  '
       ,
   },
   {
@@ -37,7 +37,7 @@ export const clientReviews = [
     position: 'Software Developer',
     img: 'assets/sathwik.png',
     review:
-      'Working with Vignesh was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
+      'Working with Vignesh was a fantastic experience; he transformed our outdated website into a modern, user-friendly platform. His unmatched attention to detail and commitment to quality make him highly recommended for any web development projects.',
   },
   {
     id: 3,
@@ -45,7 +45,7 @@ export const clientReviews = [
     position: 'Cloud Engineer',
     img: 'assets/saketh.png',
     review:
-      'Vignesh skills as a Cloud Engineer are outstanding. He successfully designed and implemented cloud solutions that are both scalable and efficient. His expertise in AWS services has led to cost optimization and improved application performance, Vignesh proactive approach and technical proficiency have greatly enhanced our cloud operations.',
+      'Vignesh skills as a Cloud Engineer are exceptional; he designed and implemented scalable, efficient cloud solutions that optimized costs and improved application performance. His proactive approach and technical proficiency have significantly enhanced our cloud operations.',
   },
   {
     id: 4,
@@ -53,7 +53,7 @@ export const clientReviews = [
     position: 'Data Scientist',
     img: 'assets/vamshi.png',
     review:
-      'Vignesh demonstrates a strong proficiency in machine learning, having developed innovative solutions that tackle complex problems effectively. His work on real-time projects, such as smoke detection systems, showcases his ability to create accurate and efficient models.',
+      'Vignesh demonstrates strong proficiency in machine learning, developing innovative solutions for complex problems. His work on real-time projects, like smoke detection systems, highlights his ability to create accurate and efficient models',
   },
 ];
 
