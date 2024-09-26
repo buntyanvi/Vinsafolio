@@ -24,35 +24,36 @@ export const navLinks = [
 export const clientReviews = [
   {
     id: 1,
-    name: 'Emily Johnson',
-    position: 'Marketing Director at GreenLeaf',
-    img: 'assets/review1.png',
+    name: 'Krishna Sai Ambati',
+    position: 'MERN Stack Developer',
+    img: 'assets/krishna.png',
     review:
-      'Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
+    'Vignesh expertise in web development is outstanding. He developed a highly efficient and scalable job portal application using the MERN stack, which led to a noticeable improvement in performance and user engagement. The solution he provided was robust, tailored to our requirements, and has significantly enhanced our platform efficiency.  '
+      ,
   },
   {
     id: 2,
-    name: 'Mark Rogers',
-    position: 'Founder of TechGear Shop',
-    img: 'assets/review2.png',
+    name: 'Sathwik Podishetti',
+    position: 'Software Developer',
+    img: 'assets/sathwik.png',
     review:
-      'Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
+      'Working with Vignesh was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
   },
   {
     id: 3,
-    name: 'John Dohsas',
-    position: 'Project Manager at UrbanTech ',
-    img: 'assets/review3.png',
+    name: 'Saketh Reddy',
+    position: 'Cloud Engineer',
+    img: 'assets/saketh.png',
     review:
-      'I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
+      'Vignesh skills as a Cloud Engineer are outstanding. He successfully designed and implemented cloud solutions that are both scalable and efficient. His expertise in AWS services has led to cost optimization and improved application performance, Vignesh proactive approach and technical proficiency have greatly enhanced our cloud operations.',
   },
   {
     id: 4,
-    name: 'Ether Smith',
-    position: 'CEO of BrightStar Enterprises',
-    img: 'assets/review4.png',
+    name: 'Guguloth Vamshi',
+    position: 'Data Scientist',
+    img: 'assets/vamshi.png',
     review:
-      'Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
+      'Vignesh demonstrates a strong proficiency in machine learning, having developed innovative solutions that tackle complex problems effectively. His work on real-time projects, such as smoke detection systems, showcases his ability to create accurate and efficient models.',
   },
 ];
 
